@@ -1,0 +1,6 @@
+{
+  "name": "School ERP",
+  "description": "Complete School Enterprise Resource Planning (ERP) native system tailored for Indian private schools (CBSE/ICSE format). Supports Academics, Fees, Admissions, Transport, and HR/Payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
